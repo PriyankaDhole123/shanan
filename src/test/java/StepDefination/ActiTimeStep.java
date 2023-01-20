@@ -46,6 +46,7 @@ public void user_land_on_home_page() {
 	else {
 		System.out.println("tc is fail");
 	}
+	System.out.println("Github sucessfully done");
     
 }
 
